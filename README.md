@@ -1,12 +1,5 @@
-Hi there, welcome to my github
 
-- 👋 Hi, I’m @Tara2805
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk2OHlhdjMwYTg2MDZqemswdTJlaW5leW5kNDF2c2Nlbm0xcTU3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="500"/>
+</div>
 
-<!---
-Tara2805/Tara2805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
