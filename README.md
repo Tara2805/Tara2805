@@ -27,7 +27,7 @@
 ⭐ I am currently undertaking several projects and classes through <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> to expand my portfolio and skills <br>
 ⭐ I am learning German <br>
 <br>
-  ✉️Contact me via Email: Tarapatterson01@gmail.com
+  ✉️Contact me via Email: <a> tarapatterson01@gmail.com </a>
 </div>
 
 <div id="completed-course">
