@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNjcHkyN2Z3djYxZ2I0dzdraW1iMDhtZDdqMmNzNmpvczU1amRocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="250" alt="Image source: Mr Urbina"/>
-  <h6 align="center" font-size:20px color:pink >Credit: Mr Urbina</h6>
+  <h6 align="center" font-size:20px >Credit: Mr Urbina</h6>
 </div>
 
 <div id="about-me-title" align="center" >
@@ -13,6 +13,9 @@
   </a>
   <a href="https://github.com/Tara2805/Tarapatterson.github.io">
     <img src="https://img.shields.io/badge/My%20Projects-pink?style=for-the-badge" alt="My Project page"/>
+  </a>
+  <a href="https://github.com/Tara2805/Tarapatterson.github.io">
+    <img src="https://img.shields.io/badge/My%20CV-violet?style=for-the-badge" alt="My CV"/>
   </a>
 </div>
 </div>
@@ -44,15 +47,21 @@
 • Code First Girls Introduction to Web development Challenge <br>
 </div>
 
-<div id="skills">
-<h3>Skills</h3>
-
-
-
-
+<div id="technical skills">
+<h3>Technical Skills</h3>
+  <a href="">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  </a>
+<a href="">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  </a>
 </div>
-
-
-
-
-
