@@ -38,15 +38,18 @@
 • TryHackMe Web Fundamentals <br>
 • Code First Girls Introduction to Python MOOC <br>
 • Code First Girls Introduction to Web development MOOC <br>
-
-<h3>Ongoing courses</h3>
-• Code First Girls Introduction to JavaScript 8 week course <br>
-• Code First Girls Introduction to Web App Security MOOC <br>
-• TryHackMe CompTIA Pentest+ <br>
 • Code First Girls Solving Problems with PYTHON MOOC<br>
 • Code First Girls Machine Learning MOOC<br>
 • Code First Girls Introduction to Python Challenge <br>
 • Code First Girls Introduction to Web development Challenge <br>
+• Code First Girls Introduction to JavaScript 8 week course <br>
+• Code First Girls Introduction to Web App Security MOOC <br>
+• Code First Girls Introduction to Job Applications & Github MOOC <br>
+
+<h3>Ongoing courses</h3>
+• Code First Girls Introduction to Web Development 8 week course <br>
+• TryHackMe CompTIA Pentest+ <br>
+• Code First Girls Data MOOC <br>
 </div>
 
 <div id="technical skills">
