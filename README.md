@@ -11,10 +11,10 @@
   <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Tara2805/Tarapatterson.github.io">
+  <a href="">
     <img src="https://img.shields.io/badge/My%20Projects-pink?style=for-the-badge" alt="My Project page"/>
   </a>
-  <a href="https://tara2805.github.io/resume/">
+  <a href="">
     <img src="https://img.shields.io/badge/My%20CV-violet?style=for-the-badge" alt="My CV"/>
   </a>
 </div>
