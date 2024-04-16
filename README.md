@@ -56,9 +56,6 @@ Now the list of my completed courses has gotten very... very long so it's best t
   </a>
    <a href="">
     <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WinTerminal"/>
-  </a> <a href="">
-    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  </a>
 </div>
 <div id="technicalSkills2>
   <a href="">
@@ -69,6 +66,9 @@ Now the list of my completed courses has gotten very... very long so it's best t
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+  </a>
+  </a> <a href="">
+    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   </a>
   
   </div>
