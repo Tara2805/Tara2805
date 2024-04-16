@@ -64,9 +64,6 @@ Now the list of my completed courses has gotten very... very long so it's best t
   <a href="">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
-  </a>
   </a> <a href="">
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   </a>
