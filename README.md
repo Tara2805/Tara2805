@@ -23,36 +23,18 @@
 <div id="about-me">
 <h3>About me...</h3>
 ⭐ I am open to employment opportunities<br>
-⭐ I am a recent graduate hoping to explore more front end related projects<br>
-⭐ I am currently undertaking several projects and classes through <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> to expand my portfolio and skills <br>
-⭐ I am learning German <br>
+⭐ I am a recent graduate hoping to explore full stack related projects or security roles<br>
+⭐ I am currently undertaking the CFG Degree, several projects and classes through <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> to expand my portfolio and skills <br>
+⭐ I am also learning German <br>
 <br>
   ✉️Contact me via Email: <a> tarapatterson01@gmail.com </a>
 </div>
 
 <div id="completed-course">
 <h3>Completed courses</h3>
-• Code First Girls Introduction to Coding MOOC  <br>
-• TryHackMe Introduction to Cyber Security Learning path <br>
-• TryHackMe Pre Security Learning path <br>
-• TryHackMe Web Fundamentals <br>
-• Code First Girls Introduction to Python MOOC <br>
-• Code First Girls Introduction to Web development MOOC <br>
-• Code First Girls Solving Problems with PYTHON MOOC<br>
-• Code First Girls Machine Learning MOOC<br>
-• Code First Girls Introduction to Python Challenge <br>
-• Code First Girls Introduction to Web development Challenge <br>
-• Code First Girls Introduction to JavaScript 8 week course <br>
-• Code First Girls Introduction to Web App Security MOOC <br>
-• Code First Girls Introduction to Job Applications & Github MOOC <br>
+Now the list of my completed courses has gotten very... very long so it's best to see all my certificates over at my <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">Linkedin</a>
 
-<h3>Ongoing courses</h3>
-• Code First Girls Introduction to Web Development 8 week course <br>
-• TryHackMe CompTIA Pentest+ <br>
-• Code First Girls Data MOOC <br>
-</div>
-
-<div id="technical skills">
+<div id="technicalSkills">
 <h3>Technical Skills</h3>
   <a href="">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -69,4 +51,24 @@
   <a href="">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WinTerminal"/>
+  </a> <a href="">
+    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  </a>
 </div>
+<div id="technicalSkills2>
+  <a href="">
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+  </a>
+  
+  </div>
