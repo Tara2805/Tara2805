@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://tara2805.github.io/tarapatterson.github.io/">
     <img src="https://img.shields.io/badge/My%20Projects-pink?style=for-the-badge" alt="My Project page"/>
   </a>
   <a href="">
