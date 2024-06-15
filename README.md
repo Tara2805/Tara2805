@@ -5,7 +5,7 @@
 </div>
 
 <div id="about-me-title" align="center" >
-  <h1>Hi! 👋 I'm Tara, welcome to my github </h1>
+  <h1>Hi! 👋 I'm Tara, Welcome to my GitHub </h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">
