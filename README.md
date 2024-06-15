@@ -67,5 +67,8 @@ Now the list of my completed courses has gotten very... very long so it's best t
   </a> <a href="">
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   </a>
+    </a> <a href="">
+    <img src="![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)"/>
+  </a>
   
   </div>
