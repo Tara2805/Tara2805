@@ -22,8 +22,8 @@
 
 <div id="about-me">
 <h3>About me...</h3>
-⭐ I am open to employment opportunities<br>
-⭐ I am a recent graduate hoping to explore full stack related projects or security roles<br>
+⭐ I am open to Employment Opportunities<br>
+⭐ I am a recent Graduate hoping to explore Security, Information or Full Ftack related projects<br>
 ⭐ I am currently undertaking the CFG Degree, several projects and classes through <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> to expand my portfolio and skills <br>
 ⭐ I am also learning German <br>
 <br>
@@ -31,8 +31,8 @@
 </div>
 
 <div id="completed-course">
-<h3>Completed courses</h3>
-Now the list of my completed courses has gotten very... very long so it's best to see all my certificates over at my <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">Linkedin</a>
+<h3>Completed Courses</h3>
+Now the list of my completed courses has gotten very... very long so it's best to see all my certificates over at my <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">LinkedIn</a>
 
 <div id="technicalSkills">
 <h3>Technical Skills</h3>
