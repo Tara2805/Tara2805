@@ -30,9 +30,12 @@
   ✉️Contact me via Email: <a> tarapatterson01@gmail.com </a>
 </div>
 
+#
 <div id="completed-course">
 <h3>Completed Courses</h3>
 Now the list of my completed courses has gotten very... very long so it's best to see all my certificates over at my <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">LinkedIn</a>
+
+# 
 
 <details>
 <summary>GitHub Stats</summary>
