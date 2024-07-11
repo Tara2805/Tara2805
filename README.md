@@ -32,7 +32,7 @@
 
 ### Total Views Badge
 [![Image of https://github.com/Tara2805/views-count](https://github.com/Tara2805/views-count/blob/master/svg/profile/badge.svg)](https://github.com/Tara2805/views-count)
-
+  [![HitCount](https://hits.dwyl.com/Tara2805/Tara2805.svg?style=flat-square)](http://hits.dwyl.com/Tara2805/Tara2805)
 
 <div id="completed-course">
 <h3>Completed Courses</h3>
