@@ -22,29 +22,37 @@
 
 <div id="about-me">
 <h3>About me...</h3>
-⭐ I am open to Employment Opportunities<br>
-⭐ I am a recent Graduate hoping to explore Security, Information or Full Ftack related projects<br>
-⭐ I am recently completed the CFG Degree, furthermore several projects and classes through <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> to expand my portfolio and skills <br>
-⭐ I am also learning German <br>
+🏡 I Currently live in Northern Ireland <br>
+🏢 I am open to Employment Opportunities<br>
+🎓 I am a recent Graduate hoping to explore Security, Information or Full Ftack related projects<br>
+🏫 I am recently completed the CFG Degree, furthermore several projects and classes through <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> <br>
+🗣️ I am also learning German <br>
 ⭐ I also absolutely love expanding upon my skills and combining my loves, for example i hope to make a photography site <br>
-<br>
-  ✉️Contact me via Email: <a> tarapatterson01@gmail.com </a>
-</div>
+
+  #
 
 ### Contact me
 <a href="mailto:tarapatterson01@gmail.com">
     <img 
-        height="32" 
-        width="32" 
+        height="40" 
+        width="40" 
         src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" 
         title="tarapatterson01@gmail.com"
     />
 </a>
 <a href="mailto:tarapatterson01@gmail.com">
     <img 
-        height="32" 
-        width="32" 
+        height="40" 
+        width="40" 
         src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" 
+        title="tara-patterson-a2098b195"
+    />
+</a>
+<a href="mailto:tarapatterson01@gmail.com">
+    <img 
+        height="40" 
+        width="40" 
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" 
         title="tara-patterson-a2098b195"
     />
 </a>
