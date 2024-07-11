@@ -30,7 +30,10 @@
   ✉️Contact me via Email: <a> tarapatterson01@gmail.com </a>
 </div>
 
-#
+### Total Views Badge
+[![Image of https://github.com/Tara2805/views-count](https://github.com/Tara2805/views-count/blob/master/svg/profile/badge.svg)](https://github.com/Tara2805/views-count)
+
+
 <div id="completed-course">
 <h3>Completed Courses</h3>
 Now the list of my completed courses has gotten very... very long so it's best to see all my certificates over at my <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">LinkedIn</a>
