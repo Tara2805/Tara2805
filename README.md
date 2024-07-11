@@ -34,8 +34,15 @@
 <h3>Completed Courses</h3>
 Now the list of my completed courses has gotten very... very long so it's best to see all my certificates over at my <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">LinkedIn</a>
 
-<div id="technicalSkills">
-<h3>Technical Skills</h3>
+<details>
+<summary>GitHub Stats</summary>
+<img alt="stats" src="https://github-readme-stats-tara-s-projects.vercel.app/api?username=Tara2805&show_icons=true&hide_border=true"/><br>
+</details>
+
+<div></div>
+
+<details>
+<summary>Technical Skils</summary>
   <a href="">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   </a>
@@ -105,4 +112,4 @@ Now the list of my completed courses has gotten very... very long so it's best t
     <a href="">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  </div>
+  </details>
