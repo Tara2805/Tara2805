@@ -40,7 +40,14 @@
         title="tarapatterson01@gmail.com"
     />
 </a>
-
+<a href="mailto:tarapatterson01@gmail.com">
+    <img 
+        height="32" 
+        width="32" 
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" 
+        title="tara-patterson-a2098b195"
+    />
+</a>
 
 
 
