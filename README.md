@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNjcHkyN2Z3djYxZ2I0dzdraW1iMDhtZDdqMmNzNmpvczU1amRocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="250" alt="Image source: Mr Urbina"/>
-  <h6 align="center" font-size:20px >Gif credit: Mr Urbina</h6>
+<!--   <h6 align="center" font-size:20px >Gif credit: Mr Urbina</h6> -->
 </div>
 
 <div id="about-me-title" align="center" >
@@ -24,15 +24,31 @@
 <h3>About me...</h3>
 ⭐ I am open to Employment Opportunities<br>
 ⭐ I am a recent Graduate hoping to explore Security, Information or Full Ftack related projects<br>
-⭐ I am currently undertaking the CFG Degree, several projects and classes through <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> to expand my portfolio and skills <br>
+⭐ I am recently completed the CFG Degree, furthermore several projects and classes through <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> to expand my portfolio and skills <br>
 ⭐ I am also learning German <br>
+⭐ I also absolutely love expanding upon my skills and combining my loves, for example i hope to make a photography site <br>
 <br>
   ✉️Contact me via Email: <a> tarapatterson01@gmail.com </a>
 </div>
 
+### Contact me
+<a href="https://mail.google.com" style="text-decoration: none;">
+    <img 
+        height="32" 
+        width="32" 
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" 
+        style="transition: transform 0.2s;"
+        onmouseover="this.style.transform='scale(1.2)';" 
+        onmouseout="this.style.transform='scale(1)';"
+    />
+</a>
+
+
+
 ### Total Views Badge
 [![Image of https://github.com/Tara2805/views-count](https://github.com/Tara2805/views-count/blob/master/svg/profile/badge.svg)](https://github.com/Tara2805/views-count)
   [![HitCount](https://hits.dwyl.com/Tara2805/Tara2805.svg?style=flat-square)](http://hits.dwyl.com/Tara2805/Tara2805)
+  ![Visitor Count](https://profile-counter.glitch.me/{Tara2805}/count.svg)
 
 <div id="completed-course">
 <h3>Completed Courses</h3>
