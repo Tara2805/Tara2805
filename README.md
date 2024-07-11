@@ -34,30 +34,29 @@
 ### Contact me
 <a href="mailto:tarapatterson01@gmail.com">
     <img 
-        height="40" 
-        width="40" 
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" 
+        height="50" 
+        width="50" 
+        src="https://cdn.simpleicons.org/gmail/red"  
         title="tarapatterson01@gmail.com"
     />
 </a>
 <a href="mailto:tarapatterson01@gmail.com">
     <img 
-        height="40" 
-        width="40" 
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" 
+        height="50" 
+        width="50" 
+        src="https://cdn.simpleicons.org/LinkedIn/0A66C2" 
         title="tara-patterson-a2098b195"
     />
 </a>
-<a href="mailto:tarapatterson01@gmail.com">
+<a href="https://github.com/Tara2805">
     <img 
-        height="40" 
-        width="40" 
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" 
-        title="tara-patterson-a2098b195"
+        height="50" 
+        width="50"
+        color="#F05032"
+        src="https://cdn.simpleicons.org/GitHub/7A78D7"
+        title="Tara2805"
     />
 </a>
-
-
 
 
 ### Total Views Badge
