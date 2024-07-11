@@ -32,16 +32,16 @@
 </div>
 
 ### Contact me
-<a href="https://mail.google.com" style="text-decoration: none;">
+<a href="mailto:tarapatterson01@gmail.com">
     <img 
         height="32" 
         width="32" 
         src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" 
-        style="transition: transform 0.2s;"
-        onmouseover="this.style.transform='scale(1.2)';" 
-        onmouseout="this.style.transform='scale(1)';"
+        title="tarapatterson01@gmail.com"
     />
 </a>
+
+
 
 
 
