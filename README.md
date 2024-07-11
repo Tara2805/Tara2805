@@ -32,6 +32,9 @@
   #
 
 ### Contact me
+
+*I love connecting with different people*, I will always be happy to answer your questions and communicate more!
+
 <a href="mailto:tarapatterson01@gmail.com">
     <img 
         height="50" 
@@ -58,17 +61,13 @@
     />
 </a>
 
+#
+<details>
+<summary>My GitHub Visitors</summary>
 
-### Total Views Badge
-[![Image of https://github.com/Tara2805/views-count](https://github.com/Tara2805/views-count/blob/master/svg/profile/badge.svg)](https://github.com/Tara2805/views-count)
-  [![HitCount](https://hits.dwyl.com/Tara2805/Tara2805.svg?style=flat-square)](http://hits.dwyl.com/Tara2805/Tara2805)
-  ![Visitor Count](https://profile-counter.glitch.me/{Tara2805}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Tara2805}/count.svg) 
+</details>
 
-<div id="completed-course">
-<h3>Completed Courses</h3>
-Now the list of my completed courses has gotten very... very long so it's best to see all my certificates over at my <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">LinkedIn</a>
-
-# 
 
 <details>
 <summary>GitHub Stats</summary>
