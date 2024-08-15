@@ -14,7 +14,7 @@
   <a href="https://tara2805.github.io/tarapatterson.github.io/">
     <img src="https://img.shields.io/badge/My%20Projects-pink?style=for-the-badge" alt="My Project page"/>
   </a>
-  <a href="https://github.com/Tara2805/resume/blob/f05a6c624766ff72074907eb436a83b597bfc009/Tara%20CV.pdf">
+  <a href="https://github.com/Tara2805/resume/blob/b6a24e7d9aae939fb4f7830bab33763a300bf96f/Tara%20Patterson%20CV.pdf">
     <img src="https://img.shields.io/badge/My%20CV-violet?style=for-the-badge" alt="My CV"/>
   </a>
 </div>
