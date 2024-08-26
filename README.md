@@ -24,10 +24,11 @@
 <h3>About me...</h3>
 🏡 I Currently live in Northern Ireland <br>
 🏢 I am open to Employment Opportunities<br>
-🎓 I am a recent Graduate hoping to explore Security, Information or Full Ftack related projects<br>
-🏫 I recently completed the CFG Degree, furthermore several projects and classes through <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> <br>
-🗣️ I am also learning German <br>
-⭐ I also absolutely love expanding upon my skills and combining my loves, for example i hope to make a photography site <br>
+🎓 I am a Graduate hoping to explore Security, Information or Supportive roles<br>
+🏫 I have completed the <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> Degree <br>
+🗣️ I am learning German <br>
+⭐ I have become obsessed with CTFs! <br>
+💪 I am constantly strengthening my skills! I WILL be CompTia A+/Security+ certified by the end of the year! 
 
   #
 
@@ -88,6 +89,7 @@
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
 </details>
 <details>
@@ -100,7 +102,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -128,7 +130,6 @@
  	![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
   
 </details>
