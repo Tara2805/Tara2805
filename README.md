@@ -8,50 +8,25 @@
   <h1>Hi! 👋 I'm Tara, Welcome to my GitHub </h1>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/tara-patterson-a2098b195/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Removed"/>
   </a>
-  <a href="https://tara2805.github.io/tarapatterson.github.io/">
-    <img src="https://img.shields.io/badge/My%20Projects-pink?style=for-the-badge" alt="My Project page"/>
+  <a href="/">
+    <img src="https://img.shields.io/badge/My%20Projects-pink?style=for-the-badge" alt="Removed"/>
   </a>
-  <a href="https://github.com/Tara2805/resume/blob/b6a24e7d9aae939fb4f7830bab33763a300bf96f/Tara%20Patterson%20CV.pdf">
-    <img src="https://img.shields.io/badge/My%20CV-violet?style=for-the-badge" alt="My CV"/>
+  <a href="/">
+    <img src="https://img.shields.io/badge/My%20CV-violet?style=for-the-badge" alt="Removed"/>
   </a>
 </div>
 </div>
 
 <div id="about-me">
-<h3>About me...</h3>
-🏡 I Currently live in Northern Ireland <br>
-🏢 I am open to Employment Opportunities<br>
-🎓 I am a Graduate hoping to explore Security, Information or Supportive roles<br>
-🏫 I have completed the <a href="https://codefirstgirls.com/?utm_medium=ppc&utm_source=adwords">Code First Girls</a> Degree <br>
-🗣️ I am learning German <br>
-⭐ I have become obsessed with CTFs! <br>
-💪 I am constantly strengthening my skills! I WILL be CompTia A+/Security+ certified by the end of the year! 
-
   #
 
 ### Contact me
 
 *I love connecting with different people*, I will always be happy to answer your questions and communicate more!
 
-<a href="mailto:tarapatterson01@gmail.com">
-    <img 
-        height="50" 
-        width="50" 
-        src="https://cdn.simpleicons.org/gmail/red"  
-        title="tarapatterson01@gmail.com"
-    />
-</a>
-<a href="mailto:tarapatterson01@gmail.com">
-    <img 
-        height="50" 
-        width="50" 
-        src="https://cdn.simpleicons.org/LinkedIn/0A66C2" 
-        title="tara-patterson-a2098b195"
-    />
-</a>
 <a href="https://github.com/Tara2805">
     <img 
         height="50" 
