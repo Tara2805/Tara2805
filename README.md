@@ -7,21 +7,7 @@
 <div id="about-me-title" align="center" >
   <h1>Hi! 👋 I'm Tara, Welcome to my GitHub </h1>
 
-<div id="badges">
-  <a href="/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Removed"/>
-  </a>
-  <a href="/">
-    <img src="https://img.shields.io/badge/My%20Projects-pink?style=for-the-badge" alt="Removed"/>
-  </a>
-  <a href="/">
-    <img src="https://img.shields.io/badge/My%20CV-violet?style=for-the-badge" alt="Removed"/>
-  </a>
-</div>
-</div>
 
-<div id="about-me">
-  #
 
 ### Contact me
 
