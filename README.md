@@ -7,22 +7,6 @@
 <div id="about-me-title" align="center" >
   <h1>Hi! 👋 I'm Tara, Welcome to my GitHub </h1>
 
-
-
-### Contact me
-
-*I love connecting with different people*, I will always be happy to answer your questions and communicate more!
-
-<a href="https://github.com/Tara2805">
-    <img 
-        height="50" 
-        width="50"
-        color="#F05032"
-        src="https://cdn.simpleicons.org/GitHub/7A78D7"
-        title="Tara2805"
-    />
-</a>
-
 #
 
 <h3>Technical Skills</h3>
